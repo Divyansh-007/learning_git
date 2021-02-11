@@ -1,3 +1,4 @@
-## Learning Branches In Git omaking changes on Markdown
+## Learning Git
 
+## Divyansh - Sieve of Eratosthenes Approach
 
